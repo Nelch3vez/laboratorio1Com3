@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^2.6.7",
+    "request": "^2.88.2"
+  },
+  "name": "lab1com3",
+  "version": "1.0.0",
+  "main": "bitcoinApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
